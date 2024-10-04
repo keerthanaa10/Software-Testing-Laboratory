@@ -1,6 +1,6 @@
 # Ex.No: 5 Binary Search
-### DATE: 4/10/2024                                                                            
-### REGISTER NUMBER : 212221040081
+## DATE: 4/10/2024                                                                            
+## REGISTER NUMBER : 212221040081
 ### AIM: 
 Write a python program for Binary Search and inspect for failures.
 
